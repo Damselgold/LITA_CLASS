@@ -1,2 +1,6 @@
 # LITA_CLASS
-My documented analysis while learning Data Analysis with LITA Incubation Hub
+
+## My documented analysis while learning Data Analysis with LITA Incubation Hub
+
+### Project Data Cleaning
+
