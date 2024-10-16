@@ -5,11 +5,11 @@
 ### Project Data Cleaning
 
 #### Tool Used
-##### Microsft  Excel
+##### - Microsft  Excel
 1. For Data Cleaning
 2. For Analysis
 3. For Visualization
-##### SQL 
+##### - SQL 
 
-##### PowerBI
+##### - PowerBI
 
